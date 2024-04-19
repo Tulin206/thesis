@@ -1,0 +1,1 @@
+All these experiments are conducted with TensorFlow framework. ResNet 18, Pre-Trained ResNet 18 and MobileNet V1 is implemented in this folder. Additionally, the all 49152 spectra, mean and max spectra and also IR Spectroscopy full image after reducing dimension from 441 to 3 is also implemented here.
