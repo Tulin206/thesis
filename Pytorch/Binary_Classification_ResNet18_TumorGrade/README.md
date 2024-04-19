@@ -1,0 +1,1 @@
+This experiemnt is conducted with 27 pancreas tissue samples for classifying pancreatic tumor grade. For tumor grade classification, there were 16 samples labeled as tumor grade 2 and 11 samples as gtumor grade rade 3. Tumor grade 2 is classified as class 0 and tumor grade 3 is classified as class 1.
