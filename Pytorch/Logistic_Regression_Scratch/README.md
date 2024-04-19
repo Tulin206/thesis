@@ -1,1 +1,0 @@
-Here, Logistic Regression is built from scratch, without  importing it from scikit-learn.

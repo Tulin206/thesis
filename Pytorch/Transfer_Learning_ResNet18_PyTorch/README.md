@@ -1,3 +1,0 @@
-This experiment is conducted with ResNet 18 with pre-trained weight. To make the data compatible with transfer learning techniques, the wavenumber dimension was reduced from 441 to 3 using PCA before standard scaling process.
-
-From __main_new_TransferLearning_ResNet18_PyTorch.py__, all the results of stratified cross-validation and leave-One-Out cross-validation with both 16 samples and 28 samples can be produced. To train the model with 16 samples, `import sample_16.samples_16_cv_transferlearning` should be executed. For training the model with 28 samples using leave-one-out cross-validation, `import sample_28.samples_28_loo_transferlearning` should be executed.

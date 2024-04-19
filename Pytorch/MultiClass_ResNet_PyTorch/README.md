@@ -1,1 +1,0 @@
-This experiemnt is conducted with 6 fold cross-validation technique without maintaining stratified fashion.
