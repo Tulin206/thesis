@@ -1,0 +1,1 @@
+This experiemnt is conducted with sratified 2- fold cross-validation technique.
